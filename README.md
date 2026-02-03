@@ -40,5 +40,8 @@ Focuses on individual player efficiency and granular head-to-head matchups.
     * **Accurate Economy Rate** (handling legal vs. illegal deliveries).
     * **Strike Rates** and **Boundary Percentages**.
     * **Dynamic Title Headers** that change based on slicer selections.
+## 🚀 Getting Started
+* **Download:** Click the Google Drive link below to download the `.pbix` file.
+* **🚀 [Download IPL_Analytics_Dashboard.pbix (Google Drive)](https://drive.google.com/file/d/1FzKTqZ35ooUSmIeDewJwS_ydUpG40NK3/view?usp=drive_link)**  
 
 
