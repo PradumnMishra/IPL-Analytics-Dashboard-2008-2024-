@@ -14,7 +14,8 @@ Provides a high-level summary of the tournament's history and global trends.
 * **Dynamic Tooltip:** Hovering over the "Average Runs" chart triggers a custom tooltip showing:
     * **Total Boundary Trends** (Year-over-Year).
     * **Distribution of Runs** (Breakdown of 1s, 2s, 4s, and 6s).
-    https://github.com/PradumnMishra/IPL-Analytics-Dashboard-2008-2024-/blob/main/tooltip.PNG
+    <img width="931" height="257" alt="tooltip" src="[https://github.com/user-attachments/assets/56fc14b2-e7f1-4e80-8e38-3fdd7aee43de]" />
+
  * **Qualifying Teams Table:** A historical leaderboard showcasing the **Top 4 teams (QFT1, QFT2, QFT3, QFT4)** for every season, providing an instant look at the league's most consistent franchises.   
 
 ### 2. Team Profile
